@@ -1,7 +1,7 @@
 /.idea/*
-/src/main/resources/
 .target/*
 *.jar
 *.war
 *.cmd
 *.iml
+*.log
